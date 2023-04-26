@@ -7,3 +7,7 @@ nav {
   justify-content: space-around;
   font-size: 26px;
 }
+
+.cat-image {
+  height: 300px;
+}
